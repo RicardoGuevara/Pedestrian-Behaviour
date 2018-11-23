@@ -11,23 +11,6 @@ Prefab:
   m_SourcePrefab: {fileID: 0}
   m_RootGameObject: {fileID: 1532064831932152}
   m_IsPrefabAsset: 1
---- !u!1 &1179585234956196
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4125877541585548}
-  - component: {fileID: 33312333312493914}
-  - component: {fileID: 23002866778269328}
-  m_Layer: 0
-  m_Name: Bus_default
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
 --- !u!1 &1532064831932152
 GameObject:
   m_ObjectHideFlags: 0
@@ -36,7 +19,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4207058410887070}
-  - component: {fileID: 114735041261654400}
+  - component: {fileID: 114035792013153516}
   m_Layer: 0
   m_Name: base_bus
   m_TagString: Untagged
@@ -44,19 +27,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4125877541585548
-Transform:
-  m_ObjectHideFlags: 1
+--- !u!1 &1839990341881832
+GameObject:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1179585234956196}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4207058410887070}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4947648268554586}
+  - component: {fileID: 33809289275206358}
+  - component: {fileID: 23017499658432016}
+  m_Layer: 0
+  m_Name: node_id5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &4207058410887070
 Transform:
   m_ObjectHideFlags: 1
@@ -64,19 +51,32 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1532064831932152}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.76, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 4.0880475, y: 0.42809057, z: -1.22}
+  m_LocalScale: {x: 2000, y: 2000, z: 2000}
   m_Children:
-  - {fileID: 4125877541585548}
+  - {fileID: 4947648268554586}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!23 &23002866778269328
+--- !u!4 &4947648268554586
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1839990341881832}
+  m_LocalRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: -3.7493994e-33}
+  m_LocalPosition: {x: -0.000054082324, y: -0.00072137226, z: 0.0025599857}
+  m_LocalScale: {x: 0.06349231, y: 0.06349231, z: 0.06349231}
+  m_Children: []
+  m_Father: {fileID: 4207058410887070}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &23017499658432016
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1179585234956196}
+  m_GameObject: {fileID: 1839990341881832}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -86,7 +86,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 85b5bd6aa4beda847bda2eeaff9a839d, type: 3}
+  - {fileID: 2100000, guid: 2e1615f2640f41d41a098dfc701573ac, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -106,14 +106,14 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!33 &33312333312493914
+--- !u!33 &33809289275206358
 MeshFilter:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1179585234956196}
-  m_Mesh: {fileID: 4300000, guid: 85b5bd6aa4beda847bda2eeaff9a839d, type: 3}
---- !u!114 &114735041261654400
+  m_GameObject: {fileID: 1839990341881832}
+  m_Mesh: {fileID: 4300000, guid: 2e1615f2640f41d41a098dfc701573ac, type: 3}
+--- !u!114 &114035792013153516
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
