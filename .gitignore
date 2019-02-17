@@ -2,6 +2,10 @@
 
 ./comportamiento_peatones/simulation/
 
+# Librerías
+
+./comportamiento_peatones/demo/demo_basics/Assets/Oculus
+
 # Otros
 
 LICENSE
