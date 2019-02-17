@@ -7,6 +7,14 @@ evaluar el comportamiento de peatones
 
 >Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones)
 
+## Secciones
+
+>[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones)
+
+>[Evacuaciones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones)
+
+>[Documentación](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/Documentos)
+
 ## IT
 Unity 2018.2.11f1 (64 bits)
 
