@@ -16,6 +16,6 @@ evaluar el comportamiento de peatones
 >[Documentación](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/Documentos)
 
 ## IT
-Unity 2018.2.11f1 (64 bits)
+Unity 2018.3.5f1 (64 bits)
 
 Samsung Gear - VR ( )
