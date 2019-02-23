@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/creoqyaes.unity
+  isLoaded: 1
+  isActive: 1
