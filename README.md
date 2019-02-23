@@ -9,7 +9,7 @@ evaluar el comportamiento de peatones
 
 ## Secciones
 
->[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones)
+>[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
 
 >[Evacuaciones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones)
 
