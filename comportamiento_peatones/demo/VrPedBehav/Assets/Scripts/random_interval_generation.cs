@@ -6,7 +6,11 @@ public class random_interval_generation : MonoBehaviour {
 
     public GameObject auto1,    //base_car
                       auto2,    //base_cam
-                      auto3;    //base_bus
+                      auto3,    //base_bus
+                      auto4,    //base_car
+                      auto5,    //base_cam
+                      auto6,    //base_bus
+                      auto7;
 
     public Transform origen;    // base pos 
 
@@ -40,7 +44,7 @@ public class random_interval_generation : MonoBehaviour {
 
     void gen_trafic()
     {
-        int model = Random.Range(1, 4);
+        int model = Random.Range(1, 8);
 
         switch (model)
         {
@@ -52,6 +56,18 @@ public class random_interval_generation : MonoBehaviour {
                 break;
             case 3:
                 Instantiate(auto3, origen.position, origen.rotation);
+                break;
+            case 4:
+                Instantiate(auto4, origen.position, origen.rotation);
+                break;
+            case 5:
+                Instantiate(auto5, origen.position, origen.rotation);
+                break;
+            case 6:
+                Instantiate(auto6, origen.position, origen.rotation);
+                break;
+            case 7:
+                Instantiate(auto7, origen.position, origen.rotation);
                 break;
         }
     }

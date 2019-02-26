@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/creoqyaes.unity
+- path: Assets/Scenes/escenario_uno.unity
   isLoaded: 1
   isActive: 1
