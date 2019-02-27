@@ -16,4 +16,13 @@ public class movimiento_continuo : MonoBehaviour
     {
         transform.Translate(0f,0f,speed * Time.deltaTime);    
     }
+
+    private void OnCollisionEnter(Collision col)
+    {
+        if (col.transform.tag == "rotator_node")
+        {
+            transform.Rotate(0f,0f,col.transform.rotation.z * Time.deltaTime);
+        }
+    }
+
 }

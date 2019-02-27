@@ -39,7 +39,7 @@ public class random_interval_generation : MonoBehaviour {
 
     float gen_random_delay()
     {
-        return Random.Range(0.5f, 5f);
+        return Random.Range(0.8f, 5f);
     }
 
     void gen_trafic()
