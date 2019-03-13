@@ -1,11 +1,9 @@
 # Simulaciones auxiliares:
 
-./comportamiento_peatones/simulation/
-./comportamiento_peatones/carros/
+comportamiento_peatones/simulation/
+comportamiento_peatones/carros/
 
 # Librerías
-
-./comportamiento_peatones/demo/demo_basics/Assets/Oculus
 
 # Otros
 

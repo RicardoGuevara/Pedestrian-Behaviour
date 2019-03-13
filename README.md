@@ -5,10 +5,7 @@ evaluar el comportamiento de peatones
 
 
 ## Estado actual
-
 >Comportamiento de peatones: [Demo 1 (basics)](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
-
-
 
 >Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones/vrproyect)
 
@@ -28,22 +25,13 @@ evaluar el comportamiento de peatones
 
 [Unity 2018.3.5f1 (64 bits)](https://unity3d.com/es/get-unity/download?thank-you=update&download_nid=60709&os=Win)
 
-
-
 [Unity 5.6.3f0 (64 bits)](https://unity3d.com/es/get-unity/download?thank-you=update&download_nid=47820&os=Win)
-
-
 
 Google vr (integration library)
 
-
-
 ## Compatibility
-
-
 Google cardboard
 
 Samsung Gear-VR
 
 Any android 5.0 (lollipop) or grater devices 
-
