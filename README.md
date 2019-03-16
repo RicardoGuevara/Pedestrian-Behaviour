@@ -40,6 +40,9 @@ Any android 5.0 (lollipop) or grater devices
 
 <div align="center">
   
-  <p><img src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Captura%20de%20pantalla%202019-03-16%20a%20la(s)%2010.26.52%20a.%20m..png" width="400" /><h1>Harry potter cars: </h1>cars fly when we try to chage the movement script from "translate" type to "forces"</p>
+  <p>
+    <img align="left" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Captura%20de%20pantalla%202019-03-16%20a%20la(s)%2010.26.52%20a.%20m..png" width="400" />  <h1>Harry potter cars: </h1>
+    cars fly when we try to chage the movement script from "translate" type to "forces"
+  </p>
   
 </div>
