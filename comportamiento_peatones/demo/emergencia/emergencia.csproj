@@ -227,6 +227,7 @@
     <Compile Include="Assets\Raw Mocap Data\peep_motion.cs" />
     <Compile Include="Assets\Scripts\movimiento_continuo.cs" />
     <Compile Include="Assets\Scripts\random_interval_generation.cs" />
+    <Compile Include="Assets\Scripts\trasher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Shaders\HelloVR\HelloVRUnlitGrayscaleToColor.shader" />
