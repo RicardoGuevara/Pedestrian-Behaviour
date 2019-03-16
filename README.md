@@ -38,7 +38,7 @@ Any android 5.0 (lollipop) or grater devices
 
 ## Actual bugs:
 
-<div align="center">
+<div align="right">
   <div align="left">
     <img src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Captura%20de%20pantalla%202019-03-16%20a%20la(s)%2010.26.52%20a.%20m..png" width="400"><br><br>
   </div>
