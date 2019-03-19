@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: ed5a529e0e6cf4b8ca8b82abe844b44d
+timeCreated: 1553029067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_rculo
+    100002: C_rculo_001
+    100004: C_rculo_002
+    100006: C_rculo_003
+    100008: C_rculo_004
+    100010: //RootNode
+    100012: Cilindro
+    100014: Cilindro_001
+    100016: Cilindro_002
+    100018: Cilindro_003
+    100020: Cilindro_004
+    100022: Cubo
+    100024: Cubo_001
+    100026: Cubo_002
+    100028: Plano
+    100030: Plano_000
+    100032: Plano_001
+    100034: Plano_002
+    100036: Plano_003
+    100038: Plano_004
+    100040: Plano_006
+    100042: Plano_007
+    100044: Plano_008
+    100046: Plano_009
+    100048: Plano_010
+    100050: Plano_011
+    100052: Plano_012
+    100054: Plano_013
+    400000: C_rculo
+    400002: C_rculo_001
+    400004: C_rculo_002
+    400006: C_rculo_003
+    400008: C_rculo_004
+    400010: //RootNode
+    400012: Cilindro
+    400014: Cilindro_001
+    400016: Cilindro_002
+    400018: Cilindro_003
+    400020: Cilindro_004
+    400022: Cubo
+    400024: Cubo_001
+    400026: Cubo_002
+    400028: Plano
+    400030: Plano_000
+    400032: Plano_001
+    400034: Plano_002
+    400036: Plano_003
+    400038: Plano_004
+    400040: Plano_006
+    400042: Plano_007
+    400044: Plano_008
+    400046: Plano_009
+    400048: Plano_010
+    400050: Plano_011
+    400052: Plano_012
+    400054: Plano_013
+    2300000: C_rculo
+    2300002: C_rculo_001
+    2300004: C_rculo_002
+    2300006: C_rculo_003
+    2300008: C_rculo_004
+    2300010: Cilindro
+    2300012: Cilindro_001
+    2300014: Cilindro_002
+    2300016: Cilindro_003
+    2300018: Cilindro_004
+    2300020: Cubo
+    2300022: Cubo_001
+    2300024: Cubo_002
+    2300026: Plano
+    2300028: Plano_000
+    2300030: Plano_001
+    2300032: Plano_002
+    2300034: Plano_003
+    2300036: Plano_004
+    2300038: Plano_006
+    2300040: Plano_007
+    2300042: Plano_008
+    2300044: Plano_009
+    2300046: Plano_010
+    2300048: Plano_011
+    2300050: Plano_012
+    2300052: Plano_013
+    3300000: C_rculo
+    3300002: C_rculo_001
+    3300004: C_rculo_002
+    3300006: C_rculo_003
+    3300008: C_rculo_004
+    3300010: Cilindro
+    3300012: Cilindro_001
+    3300014: Cilindro_002
+    3300016: Cilindro_003
+    3300018: Cilindro_004
+    3300020: Cubo
+    3300022: Cubo_001
+    3300024: Cubo_002
+    3300026: Plano
+    3300028: Plano_000
+    3300030: Plano_001
+    3300032: Plano_002
+    3300034: Plano_003
+    3300036: Plano_004
+    3300038: Plano_006
+    3300040: Plano_007
+    3300042: Plano_008
+    3300044: Plano_009
+    3300046: Plano_010
+    3300048: Plano_011
+    3300050: Plano_012
+    3300052: Plano_013
+    4300000: Plano_000
+    4300002: C_rculo
+    4300004: Cilindro_001
+    4300006: Cilindro_002
+    4300008: Cilindro_003
+    4300010: Cilindro_004
+    4300012: Cilindro
+    4300014: Cubo_001
+    4300016: Cubo
+    4300018: C_rculo_002
+    4300020: C_rculo_003
+    4300022: C_rculo_004
+    4300024: C_rculo_001
+    4300026: Plano_001
+    4300028: Plano_002
+    4300030: Plano_003
+    4300032: Plano_004
+    4300034: Plano_006
+    4300036: Plano_007
+    4300038: Plano_008
+    4300040: Plano_009
+    4300042: Plano_010
+    4300044: Plano_011
+    4300046: Plano_012
+    4300048: Plano_013
+    4300050: Plano
+    4300052: Cubo_002
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

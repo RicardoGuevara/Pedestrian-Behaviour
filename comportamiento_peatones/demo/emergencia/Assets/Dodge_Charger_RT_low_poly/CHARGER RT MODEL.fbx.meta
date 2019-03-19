@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 159d3c7c9812040f2bb944ca36a0e63a
+timeCreated: 1553029060
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cilindro
+    100004: Cilindro.001
+    100006: Cilindro.002
+    100008: Cilindro.003
+    100010: Cilindro.004
+    100012: Cubo
+    100014: Cubo.001
+    100016: Cubo.002
+    100018: "C\xE2mera"
+    100020: "C\xEDrculo"
+    100022: "C\xEDrculo.001"
+    100024: "C\xEDrculo.002"
+    100026: "C\xEDrculo.003"
+    100028: "C\xEDrculo.004"
+    100030: Plano
+    100032: Plano.000
+    100034: Plano.001
+    100036: Plano.002
+    100038: Plano.003
+    100040: Plano.004
+    100042: Plano.006
+    100044: Plano.007
+    100046: Plano.008
+    100048: Plano.009
+    100050: Plano.010
+    100052: Plano.011
+    100054: Plano.012
+    100056: Plano.013
+    400000: //RootNode
+    400002: Cilindro
+    400004: Cilindro.001
+    400006: Cilindro.002
+    400008: Cilindro.003
+    400010: Cilindro.004
+    400012: Cubo
+    400014: Cubo.001
+    400016: Cubo.002
+    400018: "C\xE2mera"
+    400020: "C\xEDrculo"
+    400022: "C\xEDrculo.001"
+    400024: "C\xEDrculo.002"
+    400026: "C\xEDrculo.003"
+    400028: "C\xEDrculo.004"
+    400030: Plano
+    400032: Plano.000
+    400034: Plano.001
+    400036: Plano.002
+    400038: Plano.003
+    400040: Plano.004
+    400042: Plano.006
+    400044: Plano.007
+    400046: Plano.008
+    400048: Plano.009
+    400050: Plano.010
+    400052: Plano.011
+    400054: Plano.012
+    400056: Plano.013
+    2300000: Cilindro
+    2300002: Cilindro.001
+    2300004: Cilindro.002
+    2300006: Cilindro.003
+    2300008: Cilindro.004
+    2300010: Cubo
+    2300012: Cubo.001
+    2300014: Cubo.002
+    2300016: "C\xEDrculo"
+    2300018: "C\xEDrculo.001"
+    2300020: "C\xEDrculo.002"
+    2300022: "C\xEDrculo.003"
+    2300024: "C\xEDrculo.004"
+    2300026: Plano
+    2300028: Plano.000
+    2300030: Plano.001
+    2300032: Plano.002
+    2300034: Plano.003
+    2300036: Plano.004
+    2300038: Plano.006
+    2300040: Plano.007
+    2300042: Plano.008
+    2300044: Plano.009
+    2300046: Plano.010
+    2300048: Plano.011
+    2300050: Plano.012
+    2300052: Plano.013
+    3300000: Cilindro
+    3300002: Cilindro.001
+    3300004: Cilindro.002
+    3300006: Cilindro.003
+    3300008: Cilindro.004
+    3300010: Cubo
+    3300012: Cubo.001
+    3300014: Cubo.002
+    3300016: "C\xEDrculo"
+    3300018: "C\xEDrculo.001"
+    3300020: "C\xEDrculo.002"
+    3300022: "C\xEDrculo.003"
+    3300024: "C\xEDrculo.004"
+    3300026: Plano
+    3300028: Plano.000
+    3300030: Plano.001
+    3300032: Plano.002
+    3300034: Plano.003
+    3300036: Plano.004
+    3300038: Plano.006
+    3300040: Plano.007
+    3300042: Plano.008
+    3300044: Plano.009
+    3300046: Plano.010
+    3300048: Plano.011
+    3300050: Plano.012
+    3300052: Plano.013
+    4300000: Plano.000
+    4300002: "C\xEDrculo"
+    4300004: Cilindro.001
+    4300006: Cilindro.002
+    4300008: Cilindro.003
+    4300010: Cilindro.004
+    4300012: Cilindro
+    4300014: Cubo.001
+    4300016: Cubo
+    4300018: "C\xEDrculo.002"
+    4300020: "C\xEDrculo.003"
+    4300022: "C\xEDrculo.004"
+    4300024: "C\xEDrculo.001"
+    4300026: Plano.001
+    4300028: Plano.002
+    4300030: Plano.003
+    4300032: Plano.004
+    4300034: Plano.006
+    4300036: Plano.007
+    4300038: Plano.008
+    4300040: Plano.009
+    4300042: Plano.010
+    4300044: Plano.011
+    4300046: Plano.012
+    4300048: Plano.013
+    4300050: Plano
+    4300052: Cubo.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
