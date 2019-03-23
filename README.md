@@ -1,23 +1,24 @@
 ﻿# Pedestrian-Behaviour
 
->Simulaciónes de VR en dispositivos Oculus (compatibles) para
+Simulaciónes de VR en dispositivos Oculus (compatibles) para
+
 evaluar el comportamiento de peatones
 
 
 ## Estado actual
->Comportamiento de peatones: [Demo 1 (basics)](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
+Comportamiento de peatones: [Demo 1 (basics)](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
 
->Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones/vrproyect)
+Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones/vrproyect)
 
 
 ## Secciones
->[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
+[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
 
 
->[Evacuaciones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones)
+[Evacuaciones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones)
 
 
->[Documentación](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/Documentos)
+[Documentación](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/Documentos)
 
 
 
@@ -46,7 +47,7 @@ Any android 5.0 (lollipop) or grater devices
   
   <p>
     <img align="left" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/vista1.png" width="400" />  <h1>Demo 1: fase de pruebas </h1>
-    <lu>
+    <lu aligment="left">
       <li>Pulir escenario</li>
       <li>Agregar texturas al puente</li>
       <li>Agregar menus</li>
