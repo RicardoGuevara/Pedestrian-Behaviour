@@ -47,7 +47,7 @@ Any android 5.0 (lollipop) or grater devices
   
   <p>
     <img align="left" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/vista1.png" width="400" />  <h1>Demo 1: fase de pruebas </h1>
-    <lu alingment="left">
+    <lu aling="left">
       <li>Pulir escenario</li>
       <li>Agregar texturas al puente</li>
       <li>Agregar menus</li>
