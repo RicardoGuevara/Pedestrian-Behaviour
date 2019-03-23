@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 0ed5f5369cf308d48a28c1e3bd321937
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: Capot
     100002: Carosserie_
@@ -48,6 +48,10 @@ ModelImporter:
     100084: Portes
     100086: //RootNode
     100088: Text
+    100090: Carosserie__MeshPart0
+    100092: Carosserie__MeshPart1
+    100094: Circle_003_MeshPart0
+    100096: Circle_003_MeshPart1
     400000: Capot
     400002: Carosserie_
     400004: Carosserie__001
@@ -93,6 +97,10 @@ ModelImporter:
     400084: Portes
     400086: //RootNode
     400088: Text
+    400090: Carosserie__MeshPart0
+    400092: Carosserie__MeshPart1
+    400094: Circle_003_MeshPart0
+    400096: Circle_003_MeshPart1
     2100000: Chrome
     2100002: Pneu
     2100004: Pneu2
@@ -156,6 +164,10 @@ ModelImporter:
     2300082: Plane_008
     2300084: Portes
     2300086: Text
+    2300088: Carosserie__MeshPart0
+    2300090: Carosserie__MeshPart1
+    2300092: Circle_003_MeshPart0
+    2300094: Circle_003_MeshPart1
     3300000: Capot
     3300002: Carosserie_
     3300004: Carosserie__001
@@ -200,6 +212,10 @@ ModelImporter:
     3300082: Plane_008
     3300084: Portes
     3300086: Text
+    3300088: Carosserie__MeshPart0
+    3300090: Carosserie__MeshPart1
+    3300092: Circle_003_MeshPart0
+    3300094: Circle_003_MeshPart1
     4300000: Circle_012
     4300002: Circle_011
     4300004: Circle_008
@@ -244,14 +260,16 @@ ModelImporter:
     4300082: Carosserie_
     4300084: Capot
     4300086: Circle_002
+    4300088: Circle_003_MeshPart0
+    4300090: Circle_003_MeshPart1
+    4300092: Carosserie__MeshPart0
+    4300094: Carosserie__MeshPart1
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -264,15 +282,12 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -280,30 +295,22 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 2dda42414dcb67a468a3e0ac6dbd2afc
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: arka_cam
     100002: //RootNode
@@ -27,6 +27,31 @@ ModelImporter:
     100042: teker_001
     100044: tel
     100046: "\u0131zgara"
+    100048: audi_n_001_MeshPart0
+    100050: audi_n_001_MeshPart1
+    100052: audi_n_001_MeshPart2
+    100054: audi_n_MeshPart0
+    100056: audi_n_MeshPart1
+    100058: audi_n_MeshPart2
+    100060: Plane_MeshPart0
+    100062: Plane_MeshPart1
+    100064: Plane_MeshPart2
+    100066: Plane_MeshPart3
+    100068: Plane_MeshPart4
+    100070: Plane_MeshPart5
+    100072: Plane_MeshPart6
+    100074: Plane_MeshPart7
+    100076: Plane_MeshPart8
+    100078: Plane_MeshPart9
+    100080: teker_001_MeshPart0
+    100082: teker_001_MeshPart1
+    100084: teker_001_MeshPart2
+    100086: teker_001_MeshPart3
+    100088: teker_001_MeshPart4
+    100090: teker_001_MeshPart5
+    100092: "\u0131zgara_MeshPart0"
+    100094: "\u0131zgara_MeshPart1"
+    100096: "\u0131zgara_MeshPart2"
     400000: arka_cam
     400002: //RootNode
     400004: audi_n
@@ -51,6 +76,31 @@ ModelImporter:
     400042: teker_001
     400044: tel
     400046: "\u0131zgara"
+    400048: audi_n_001_MeshPart0
+    400050: audi_n_001_MeshPart1
+    400052: audi_n_001_MeshPart2
+    400054: audi_n_MeshPart0
+    400056: audi_n_MeshPart1
+    400058: audi_n_MeshPart2
+    400060: Plane_MeshPart0
+    400062: Plane_MeshPart1
+    400064: Plane_MeshPart2
+    400066: Plane_MeshPart3
+    400068: Plane_MeshPart4
+    400070: Plane_MeshPart5
+    400072: Plane_MeshPart6
+    400074: Plane_MeshPart7
+    400076: Plane_MeshPart8
+    400078: Plane_MeshPart9
+    400080: teker_001_MeshPart0
+    400082: teker_001_MeshPart1
+    400084: teker_001_MeshPart2
+    400086: teker_001_MeshPart3
+    400088: teker_001_MeshPart4
+    400090: teker_001_MeshPart5
+    400092: "\u0131zgara_MeshPart0"
+    400094: "\u0131zgara_MeshPart1"
+    400096: "\u0131zgara_MeshPart2"
     2100000: Glass_002
     2100002: Steel
     2100004: Light_000
@@ -94,6 +144,31 @@ ModelImporter:
     2300040: teker_001
     2300042: tel
     2300044: "\u0131zgara"
+    2300046: audi_n_001_MeshPart0
+    2300048: audi_n_001_MeshPart1
+    2300050: audi_n_001_MeshPart2
+    2300052: audi_n_MeshPart0
+    2300054: audi_n_MeshPart1
+    2300056: audi_n_MeshPart2
+    2300058: Plane_MeshPart0
+    2300060: Plane_MeshPart1
+    2300062: Plane_MeshPart2
+    2300064: Plane_MeshPart3
+    2300066: Plane_MeshPart4
+    2300068: Plane_MeshPart5
+    2300070: Plane_MeshPart6
+    2300072: Plane_MeshPart7
+    2300074: Plane_MeshPart8
+    2300076: Plane_MeshPart9
+    2300078: teker_001_MeshPart0
+    2300080: teker_001_MeshPart1
+    2300082: teker_001_MeshPart2
+    2300084: teker_001_MeshPart3
+    2300086: teker_001_MeshPart4
+    2300088: teker_001_MeshPart5
+    2300090: "\u0131zgara_MeshPart0"
+    2300092: "\u0131zgara_MeshPart1"
+    2300094: "\u0131zgara_MeshPart2"
     3300000: arka_cam
     3300002: audi_n
     3300004: audi_n_001
@@ -117,6 +192,31 @@ ModelImporter:
     3300040: teker_001
     3300042: tel
     3300044: "\u0131zgara"
+    3300046: audi_n_001_MeshPart0
+    3300048: audi_n_001_MeshPart1
+    3300050: audi_n_001_MeshPart2
+    3300052: audi_n_MeshPart0
+    3300054: audi_n_MeshPart1
+    3300056: audi_n_MeshPart2
+    3300058: Plane_MeshPart0
+    3300060: Plane_MeshPart1
+    3300062: Plane_MeshPart2
+    3300064: Plane_MeshPart3
+    3300066: Plane_MeshPart4
+    3300068: Plane_MeshPart5
+    3300070: Plane_MeshPart6
+    3300072: Plane_MeshPart7
+    3300074: Plane_MeshPart8
+    3300076: Plane_MeshPart9
+    3300078: teker_001_MeshPart0
+    3300080: teker_001_MeshPart1
+    3300082: teker_001_MeshPart2
+    3300084: teker_001_MeshPart3
+    3300086: teker_001_MeshPart4
+    3300088: teker_001_MeshPart5
+    3300090: "\u0131zgara_MeshPart0"
+    3300092: "\u0131zgara_MeshPart1"
+    3300094: "\u0131zgara_MeshPart2"
     4300000: arka_cam
     4300002: audi_n_001
     4300004: audi_n
@@ -140,14 +240,37 @@ ModelImporter:
     4300040: teker_001
     4300042: tel
     4300044: "\u0131zgara"
+    4300046: audi_n_001_MeshPart0
+    4300048: audi_n_001_MeshPart1
+    4300050: audi_n_001_MeshPart2
+    4300052: audi_n_MeshPart0
+    4300054: audi_n_MeshPart1
+    4300056: audi_n_MeshPart2
+    4300058: Plane_MeshPart0
+    4300060: Plane_MeshPart1
+    4300062: Plane_MeshPart2
+    4300064: Plane_MeshPart3
+    4300066: Plane_MeshPart4
+    4300068: Plane_MeshPart5
+    4300070: Plane_MeshPart6
+    4300072: Plane_MeshPart7
+    4300074: Plane_MeshPart8
+    4300076: Plane_MeshPart9
+    4300078: teker_001_MeshPart0
+    4300080: teker_001_MeshPart1
+    4300082: teker_001_MeshPart2
+    4300084: teker_001_MeshPart3
+    4300086: teker_001_MeshPart4
+    4300088: teker_001_MeshPart5
+    4300090: "\u0131zgara_MeshPart0"
+    4300092: "\u0131zgara_MeshPart1"
+    4300094: "\u0131zgara_MeshPart2"
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -160,15 +283,12 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -176,30 +296,22 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

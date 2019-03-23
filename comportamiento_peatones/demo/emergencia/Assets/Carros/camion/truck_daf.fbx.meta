@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 3b5c4065ed539844588bcf705a982ee8
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: ban_depan
     100002: cerobong_asp
@@ -19,6 +19,15 @@ ModelImporter:
     100026: truck_daf.001
     100028: truck_daf.002
     100030: truck_daf.003
+    100032: Cube.001_MeshPart0
+    100034: Cube.001_MeshPart1
+    100036: Cube.001_MeshPart2
+    100038: Cube.001_MeshPart3
+    100040: Cube.001_MeshPart4
+    100042: truck_daf.001_MeshPart0
+    100044: truck_daf.001_MeshPart1
+    100046: truck_daf_MeshPart0
+    100048: truck_daf_MeshPart1
     400000: ban_depan
     400002: cerobong_asp
     400004: Cube
@@ -35,6 +44,15 @@ ModelImporter:
     400026: truck_daf.001
     400028: truck_daf.002
     400030: truck_daf.003
+    400032: Cube.001_MeshPart0
+    400034: Cube.001_MeshPart1
+    400036: Cube.001_MeshPart2
+    400038: Cube.001_MeshPart3
+    400040: Cube.001_MeshPart4
+    400042: truck_daf.001_MeshPart0
+    400044: truck_daf.001_MeshPart1
+    400046: truck_daf_MeshPart0
+    400048: truck_daf_MeshPart1
     2100000: col_light_ban
     2100002: col_ban
     2100004: uv_ban_belakang_3
@@ -64,6 +82,15 @@ ModelImporter:
     2300024: truck_daf.001
     2300026: truck_daf.002
     2300028: truck_daf.003
+    2300030: Cube.001_MeshPart0
+    2300032: Cube.001_MeshPart1
+    2300034: Cube.001_MeshPart2
+    2300036: Cube.001_MeshPart3
+    2300038: Cube.001_MeshPart4
+    2300040: truck_daf.001_MeshPart0
+    2300042: truck_daf.001_MeshPart1
+    2300044: truck_daf_MeshPart0
+    2300046: truck_daf_MeshPart1
     3300000: ban_depan
     3300002: cerobong_asp
     3300004: Cube
@@ -79,6 +106,15 @@ ModelImporter:
     3300024: truck_daf.001
     3300026: truck_daf.002
     3300028: truck_daf.003
+    3300030: Cube.001_MeshPart0
+    3300032: Cube.001_MeshPart1
+    3300034: Cube.001_MeshPart2
+    3300036: Cube.001_MeshPart3
+    3300038: Cube.001_MeshPart4
+    3300040: truck_daf.001_MeshPart0
+    3300042: truck_daf.001_MeshPart1
+    3300044: truck_daf_MeshPart0
+    3300046: truck_daf_MeshPart1
     4300000: light_ban_4.001
     4300002: light_ban_4
     4300004: light_ban_3
@@ -94,12 +130,19 @@ ModelImporter:
     4300024: Plane.001
     4300026: Plane
     4300028: truck_daf
-  externalObjects: {}
+    4300030: Cube.001_MeshPart0
+    4300032: Cube.001_MeshPart1
+    4300034: Cube.001_MeshPart2
+    4300036: Cube.001_MeshPart3
+    4300038: Cube.001_MeshPart4
+    4300040: truck_daf.001_MeshPart0
+    4300042: truck_daf.001_MeshPart1
+    4300044: truck_daf_MeshPart0
+    4300046: truck_daf_MeshPart1
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -112,15 +155,12 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -128,30 +168,22 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
