@@ -6,13 +6,13 @@ evaluar el comportamiento de peatones
 
 
 ## Estado actual
-Comportamiento de peatones: [Demo 1 (basics)](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
+Comportamiento de peatones: [Demo 1 (basics)](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/emergencia)
 
 Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones/vrproyect)
 
 
 ## Secciones
-[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/VrPedBehav)
+[Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/)
 
 
 [Evacuaciones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones)
