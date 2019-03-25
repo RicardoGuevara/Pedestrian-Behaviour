@@ -16,11 +16,14 @@ public class trasher : MonoBehaviour {
 
     void OnCollisionEnter(Collision col)
     {
-        Debug.Log("ahijue");
-        if (true)
-        { Destroy(col.gameObject); } 
+        //Debug.Log("colision detectada");
+        Destroy(col.gameObject);
     }
         
-        
+	void OnTriggerEnter(Collider col)
+	{
+		//Debug.Log("contacto detectada");
+		Destroy(col.gameObject);
+	}    
         
 }
