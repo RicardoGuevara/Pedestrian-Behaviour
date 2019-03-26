@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5BEE10C4-149B-25A3-D7FE-2D73FC7CC1DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simulation", "Assembly-CSharp.csproj", "{5BEE10C4-149B-25A3-D7FE-2D73FC7CC1DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

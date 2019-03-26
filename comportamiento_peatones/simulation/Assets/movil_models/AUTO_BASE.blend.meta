@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 970419a6fa9da364abc87734851d433c
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
     100002: back__left_tire
@@ -9,12 +9,28 @@ ModelImporter:
     100006: body_003
     100008: Front_left_tire
     100010: Front_right_tire_
+    100012: body_003_MeshPart0
+    100014: body_003_MeshPart1
+    100016: body_003_MeshPart2
+    100018: body_003_MeshPart3
+    100020: body_003_MeshPart4
+    100022: body_003_MeshPart5
+    100024: body_003_MeshPart6
+    100026: body_003_MeshPart7
     400000: //RootNode
     400002: back__left_tire
     400004: back_right_tire
     400006: body_003
     400008: Front_left_tire
     400010: Front_right_tire_
+    400012: body_003_MeshPart0
+    400014: body_003_MeshPart1
+    400016: body_003_MeshPart2
+    400018: body_003_MeshPart3
+    400020: body_003_MeshPart4
+    400022: body_003_MeshPart5
+    400024: body_003_MeshPart6
+    400026: body_003_MeshPart7
     2100000: Tires
     2100002: Alloy
     2100004: Glass_headlights_
@@ -25,25 +41,47 @@ ModelImporter:
     2300004: body_003
     2300006: Front_left_tire
     2300008: Front_right_tire_
+    2300010: body_003_MeshPart0
+    2300012: body_003_MeshPart1
+    2300014: body_003_MeshPart2
+    2300016: body_003_MeshPart3
+    2300018: body_003_MeshPart4
+    2300020: body_003_MeshPart5
+    2300022: body_003_MeshPart6
+    2300024: body_003_MeshPart7
     3300000: back__left_tire
     3300002: back_right_tire
     3300004: body_003
     3300006: Front_left_tire
     3300008: Front_right_tire_
+    3300010: body_003_MeshPart0
+    3300012: body_003_MeshPart1
+    3300014: body_003_MeshPart2
+    3300016: body_003_MeshPart3
+    3300018: body_003_MeshPart4
+    3300020: body_003_MeshPart5
+    3300022: body_003_MeshPart6
+    3300024: body_003_MeshPart7
     4300000: back__left_tire
     4300002: back_right_tire
     4300004: body_003
     4300006: Front_left_tire
     4300008: Front_right_tire_
+    4300010: body_003_MeshPart0
+    4300012: body_003_MeshPart1
+    4300014: body_003_MeshPart2
+    4300016: body_003_MeshPart3
+    4300018: body_003_MeshPart4
+    4300020: body_003_MeshPart5
+    4300022: body_003_MeshPart6
+    4300024: body_003_MeshPart7
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -56,15 +94,12 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -72,30 +107,22 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -110,6 +137,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
