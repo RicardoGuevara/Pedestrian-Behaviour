@@ -5,13 +5,13 @@ Simulaciónes de VR en dispositivos Oculus (compatibles) para
 evaluar el comportamiento de peatones
 
 
-## Estado actual
+## Actual state
 Comportamiento de peatones: [Demo 1 (basics)](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/emergencia)
 
 Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/evacuaciones/vrproyect)
 
 
-## Secciones
+## Sections
 [Comportamiento de peatones](https://github.com/RicardoGuevara/Pedestrian-Behaviour/tree/master/comportamiento_peatones/demo/)
 
 
@@ -41,9 +41,9 @@ Any android 5.0 (lollipop) or grater devices
 
 [APK](https://drive.google.com/drive/folders/0AJ18GhGADYxhUk9PVA)
 
-## outstanding achievements:
+## Actual release:
 
-<div align="center">
+<!--div align="center">
   
   <p>
     <img align="left" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/vista1.png" width="400" />  <h1>Demo 1: fase de pruebas </h1>
@@ -55,4 +55,20 @@ Any android 5.0 (lollipop) or grater devices
     </lu>
   </p>
   
+</div-->
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/release1.PNG" width="800" />  
+  </p>
+  <p>
+    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Screenshot_20190327-142343.png" width="800" />  
+  </p>
+  <p>
+    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Screenshot_20190327-142248.png" width="800" />  
+  </p>
+  <p>
+    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Screenshot_20190327-142200.png" width="800" />  
+  </p>
 </div>
+
