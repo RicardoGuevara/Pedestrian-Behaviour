@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Raw Mocap Data\peep_motion.cs" />
+     <Compile Include="Assets\Scripts\gazeEm.cs" />
      <Compile Include="Assets\Scripts\movimiento_continuo.cs" />
      <Compile Include="Assets\Scripts\random_interval_generation.cs" />
      <Compile Include="Assets\Scripts\rotate.cs" />

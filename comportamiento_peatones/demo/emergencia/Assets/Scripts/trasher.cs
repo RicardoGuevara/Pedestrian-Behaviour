@@ -23,7 +23,11 @@ public class trasher : MonoBehaviour {
 	void OnTriggerEnter(Collider col)
 	{
 		//Debug.Log("contacto detectada");
-		Destroy(col.gameObject);
+		if (!col.gameObject.CompareTag("MainCamera"))
+		{ 
+			Destroy(col.gameObject);
+		} 
+
 	}    
         
 }
