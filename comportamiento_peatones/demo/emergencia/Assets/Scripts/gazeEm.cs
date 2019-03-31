@@ -20,17 +20,15 @@ public class gazeEm : MonoBehaviour {
 
 	void OnTriggerStay(Collider col)
 	{
-		if (!col.gameObject.CompareTag("movil_object"))
+		if (col.gameObject.CompareTag("MainCamera"))
 		{ 
 			tm.GetComponent<Text> ().text = info;
 		} 
-
-		if (col.gameObject.CompareTag("trash"))
-		{ 
-			tm.GetComponent<Text> ().text = "";
-		} 
 	}
 
-
+	void OnTriggerExit(Collider col)
+	{
+		tm.GetComponent<Text> ().text = "";
+	}
 
 }
