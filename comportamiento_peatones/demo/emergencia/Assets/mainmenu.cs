@@ -7,17 +7,17 @@ public class mainmenu : MonoBehaviour {
 
 	public void scenario1()
 	{
-		SceneManager.LoadScene ("escenariouno");
+		SceneManager.LoadScene ("pruebas");
 	}
 
 	public void scenario2()
 	{
-		SceneManager.LoadScene ("escenariodos");
+		SceneManager.LoadScene ("pruebas");
 	}
 
 	public void scenario3()
 	{
-		SceneManager.LoadScene ("escenariotres");
+		SceneManager.LoadScene ("pruebas");
 	}
 
 

@@ -53,18 +53,7 @@
      <Compile Include="Assets\Scripts\rotate.cs" />
      <Compile Include="Assets\Scripts\trasher.cs" />
      <Compile Include="Assets\mainmenu.cs" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader" />
-     <None Include="Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt" />
-     <None Include="Assets\EasyRoads3D\_readme .txt" />
      <None Include="Assets\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
-     <None Include="Assets\EasyRoads3D\prefab sources\_custom prefabs.txt" />
-     <None Include="Assets\EasyRoads3D\_Release Notes.txt" />
-     <None Include="Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt" />
-     <None Include="Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/Laboratorio/Desktop/Pedestrian-Behaviour/comportamiento_peatones/demo/emergencia/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
@@ -88,9 +77,6 @@
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.3f1/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
- </Reference>
- <Reference Include="EasyRoads3Dv3">
- <HintPath>C:/Users/Laboratorio/Desktop/Pedestrian-Behaviour/comportamiento_peatones/demo/emergencia/Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.3f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
