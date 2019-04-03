@@ -59,16 +59,8 @@ Any android 5.0 (lollipop) or grater devices
 
 <div align="center">
   <p>
-    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/release1.PNG" width="800" />  
+    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/pre-release-demo.PNG" width="800" />  
   </p>
-  <p>
-    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Screenshot_20190327-142343.png" width="800" />  
-  </p>
-  <p>
-    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Screenshot_20190327-142248.png" width="800" />  
-  </p>
-  <p>
-    <img align="center" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/Screenshot_20190327-142200.png" width="800" />  
-  </p>
+  
 </div>
 
