@@ -5,20 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class mainmenu : MonoBehaviour {
 
-	public void scenario1()
+	public void scenariouno()
 	{
-		SceneManager.LoadScene ("pruebas");
+		SceneManager.LoadScene ("arreglo");
 	}
 
-	public void scenario2()
+	public void scenariodos()
 	{
-		SceneManager.LoadScene ("pruebas");
+		SceneManager.LoadScene ("escena1");
 	}
 
-	public void scenario3()
-	{
-		SceneManager.LoadScene ("pruebas");
-	}
 
 
 }
