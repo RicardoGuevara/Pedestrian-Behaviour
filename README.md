@@ -37,7 +37,7 @@ Any android 5.0 (lollipop) or grater devices
 Oculus
 ## APK and resources
 
-[APK](https://drive.google.com/drive/folders/0AJ18GhGADYxhUk9PVA)
+[APK](https://github.com/RicardoGuevara/Pedestrian-Behaviour/releases/download/v1.3.2/vr1.3.2.apk)
 
 ## Actual release:
 
