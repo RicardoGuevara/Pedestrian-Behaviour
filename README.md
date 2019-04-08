@@ -24,11 +24,8 @@ Evacuaciones: [Preeliminares](https://github.com/RicardoGuevara/Pedestrian-Behav
 
 ## IT
 
-[Unity 2018.3.5f1 (64 bits)](https://unity3d.com/es/get-unity/download?thank-you=update&download_nid=60709&os=Win)
-
 [Unity 5.6.3f0 (64 bits)](https://unity3d.com/es/get-unity/download?thank-you=update&download_nid=47820&os=Win)
 
-Google vr (integration library)
 
 ## Compatibility
 Google cardboard
@@ -37,9 +34,10 @@ Samsung Gear-VR
 
 Any android 5.0 (lollipop) or grater devices 
 
+Oculus
 ## APK and resources
 
-[APK](https://drive.google.com/drive/folders/0AJ18GhGADYxhUk9PVA)
+[APK](https://github.com/RicardoGuevara/Pedestrian-Behaviour/releases/download/v1.3.2/vr1.3.2.apk)
 
 ## Actual release:
 
