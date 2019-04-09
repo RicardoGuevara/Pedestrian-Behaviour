@@ -82,9 +82,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Destroyer4.cs" />
     <Compile Include="Assets\Scripts\Colision.cs" />
     <Compile Include="Assets\Scripts\ComportamientoPatron.cs" />
     <Compile Include="Assets\Scripts\Destroyer.cs" />
+    <Compile Include="Assets\Scripts\Destroyer2.cs" />
+    <Compile Include="Assets\Scripts\Destroyer3.cs" />
     <Compile Include="Assets\Scripts\PatronAccion.cs" />
     <Compile Include="Assets\Scripts\TimedSpawn.cs" />
     <Compile Include="Assets\Scripts\TransformFunctions.cs" />
