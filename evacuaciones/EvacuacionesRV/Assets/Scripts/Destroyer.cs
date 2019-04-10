@@ -9,10 +9,11 @@ public class Destroyer : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         
-        if (this.transform.position.z >= 75 && this.transform.position.x <= -137 && this.transform.position.x >= 100) {
-            
+        if (this.transform.position.z >= 75 && this.transform.position.x <= -137) {
+          //  this.transform.Rotate(0,180,0);
             Destruction();
         }
+
 	}
 
     private void OnCollisionEnter(Collision coll)
