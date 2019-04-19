@@ -11,13 +11,10 @@ public class Destroyer21 : MonoBehaviour
     void Update()
     {
 
-        if (this.transform.position.z >= -23)
-        {
-            Rotador();
+        
+       if (this.transform.position.z >= -16.27) {
+            Destruction();
         }
-      //  if (this.transform.position.z >= -16.27) {
-        //    Destruction();
-        //}
 
     }
 
