@@ -89,6 +89,7 @@
      <Compile Include="Assets\Scripts\movimiento_continuo.cs" />
      <Compile Include="Assets\Scripts\random_interval_generation.cs" />
      <Compile Include="Assets\Scripts\rotate.cs" />
+     <Compile Include="Assets\Scripts\spriteChange.cs" />
      <Compile Include="Assets\Scripts\trasher.cs" />
      <Compile Include="Assets\cinematicintro.cs" />
      <Compile Include="Assets\democine.cs" />
