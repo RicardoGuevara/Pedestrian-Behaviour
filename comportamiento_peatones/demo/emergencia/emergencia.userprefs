@@ -6,7 +6,7 @@
       <File FileName="Assets\Scripts\movimiento_continuo.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\rotate.cs" Line="1" Column="1" />
       <File FileName="Assets\democine.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\spriteChange.cs" Line="26" Column="28" />
+      <File FileName="Assets\Scripts\spriteChange.cs" Line="29" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
