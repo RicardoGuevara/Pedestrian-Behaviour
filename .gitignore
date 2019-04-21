@@ -5,6 +5,11 @@ comportamiento_peatones/carros/
 
 # Librerías
 
+# Archivos de personalizacion unity
+
+comportamiento_peatones/demo/emergencia/Library/CurrentLayout.dwlt
+comportamiento_peatones/demo/emergencia/Library/CurrentMaximizeLayout.dwlt
+
 # Otros
 
 LICENSE
