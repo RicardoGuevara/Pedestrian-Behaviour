@@ -21,6 +21,7 @@ ModelImporter:
     100026: Plane_011
     100028: Plane_012
     100030: Sphere
+    100032: Icosphere
     400000: //RootNode
     400002: Cube
     400004: Plane
@@ -37,6 +38,7 @@ ModelImporter:
     400026: Plane_011
     400028: Plane_012
     400030: Sphere
+    400032: Icosphere
     2300000: //RootNode
     2300002: Cube
     2300004: Plane
@@ -53,6 +55,7 @@ ModelImporter:
     2300026: Plane_011
     2300028: Plane_012
     2300030: Sphere
+    2300032: Icosphere
     3300000: //RootNode
     3300002: Cube
     3300004: Plane
@@ -69,6 +72,7 @@ ModelImporter:
     3300026: Plane_011
     3300028: Plane_012
     3300030: Sphere
+    3300032: Icosphere
     4300000: Cube
     4300002: Plane
     4300004: Plane_001
@@ -84,6 +88,7 @@ ModelImporter:
     4300024: Plane_011
     4300026: Plane_010
     4300028: Sphere
+    4300030: Icosphere
     7400000: Default Take
     9500000: //RootNode
   materials:
