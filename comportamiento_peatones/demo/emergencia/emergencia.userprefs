@@ -1,12 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\spriteChange.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\nextscene.cs">
     <Files>
       <File FileName="Assets\cinematicintro.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\movimiento_continuo.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\rotate.cs" Line="1" Column="1" />
       <File FileName="Assets\democine.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\spriteChange.cs" Line="29" Column="34" />
+      <File FileName="Assets\Scripts\spriteChange.cs" Line="23" Column="2" />
+      <File FileName="Assets\Scripts\nextscene.cs" Line="21" Column="70" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
