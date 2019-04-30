@@ -1,0 +1,31 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags HombreC2
+camera 6.0 354.5 -0.274572429353 1.0 0.494876489744 1.325
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails/African 0.246000
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.500000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.606000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.508000
+modifier macrodetails/Caucasian 0.246000
+modifier macrodetails-universal/Weight 0.500000
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy male_muscle_13290 79e967dc-3f7a-4f2d-851e-4f06753ed571
+hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
+skeleton default.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose standing02.bvh
+clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
+clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
+clothes male_casualsuit01 79ced554-1d8a-4c14-a6a8-e1de90b09c32
+clothesHideFaces True
+expression determination01.mhpose
+skinMaterial skins/middleage_african_male/middleage_african_male.mhmat
+material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False

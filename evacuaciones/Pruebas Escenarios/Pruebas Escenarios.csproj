@@ -79,13 +79,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ComenzarPJ1.cs" />
+    <Compile Include="Assets\ComenzarPJ2.cs" />
+    <Compile Include="Assets\ComenzarPJ4.cs" />
+    <Compile Include="Assets\Comienzo.cs" />
+    <Compile Include="Assets\ComienzoPJ17.cs" />
+    <Compile Include="Assets\DelayPrueba.cs" />
     <Compile Include="Assets\EliminarPj.cs" />
     <Compile Include="Assets\EliminarPjGiran.cs" />
     <Compile Include="Assets\EliminarPjGiranDer.cs" />
     <Compile Include="Assets\EliminarPjPuerta2.cs" />
+    <Compile Include="Assets\HG.cs" />
+    <Compile Include="Assets\Tomando.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Easy DG Assets 1 - Wood + Stone\README.txt" />
+    <None Include="Assets\Huge Mocap Library\READTHIS.txt" />
+    <None Include="Assets\Huge Mocap Library\mocap animations\cmu-mocap-index-text.txt" />
+    <None Include="Assets\Humans\H1\H1.mesh.xml" />
+    <None Include="Assets\Humans\H1\H1.skeleton.xml" />
     <None Include="Assets\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
