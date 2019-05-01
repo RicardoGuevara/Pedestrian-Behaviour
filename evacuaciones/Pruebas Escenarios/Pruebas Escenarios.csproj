@@ -80,8 +80,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ComenzarPJ1.cs" />
+    <Compile Include="Assets\ComenzarPJ10.cs" />
+    <Compile Include="Assets\ComenzarPJ11.cs" />
+    <Compile Include="Assets\ComenzarPJ12.cs" />
+    <Compile Include="Assets\ComenzarPJ13.cs" />
+    <Compile Include="Assets\ComenzarPJ14.cs" />
+    <Compile Include="Assets\ComenzarPJ15.cs" />
+    <Compile Include="Assets\ComenzarPJ19.cs" />
     <Compile Include="Assets\ComenzarPJ2.cs" />
+    <Compile Include="Assets\ComenzarPJ3.cs" />
     <Compile Include="Assets\ComenzarPJ4.cs" />
+    <Compile Include="Assets\ComenzarPJ5.cs" />
+    <Compile Include="Assets\ComenzarPJ6.cs" />
+    <Compile Include="Assets\ComenzarPJ7.cs" />
+    <Compile Include="Assets\ComenzarPJ8.cs" />
+    <Compile Include="Assets\ComenzarPJ9.cs" />
+    <Compile Include="Assets\ComenzarPj18.cs" />
     <Compile Include="Assets\Comienzo.cs" />
     <Compile Include="Assets\ComienzoPJ17.cs" />
     <Compile Include="Assets\DelayPrueba.cs" />
