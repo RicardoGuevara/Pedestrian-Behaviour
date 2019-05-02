@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 707d506e2581fe447b6e67e7f86b530b
+timeCreated: 1556762596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boots_ankleMesh
+    100002: CMU compliant skeleton
+    100004: eyebrow001Mesh
+    100006: eyelashes01Mesh
+    100008: female_elegantsuit01Mesh
+    100010: Head
+    100012: Hips
+    100014: LeftArm
+    100016: LeftFingerBase
+    100018: LeftFoot
+    100020: LeftForeArm
+    100022: LeftHand
+    100024: LeftHandFinger1
+    100026: LeftLeg
+    100028: LeftShoulder
+    100030: LeftToeBase
+    100032: LeftUpLeg
+    100034: LHipJoint
+    100036: low-polyMesh
+    100038: LowerBack
+    100040: LThumb
+    100042: //RootNode
+    100044: mujerc3Mesh
+    100046: Neck
+    100048: Neck1
+    100050: ponytail01Mesh
+    100052: RHipJoint
+    100054: RightArm
+    100056: RightFingerBase
+    100058: RightFoot
+    100060: RightForeArm
+    100062: RightHand
+    100064: RightHandFinger1
+    100066: RightLeg
+    100068: RightShoulder
+    100070: RightToeBase
+    100072: RightUpLeg
+    100074: RThumb
+    100076: Spine
+    100078: Spine1
+    400000: boots_ankleMesh
+    400002: CMU compliant skeleton
+    400004: eyebrow001Mesh
+    400006: eyelashes01Mesh
+    400008: female_elegantsuit01Mesh
+    400010: Head
+    400012: Hips
+    400014: LeftArm
+    400016: LeftFingerBase
+    400018: LeftFoot
+    400020: LeftForeArm
+    400022: LeftHand
+    400024: LeftHandFinger1
+    400026: LeftLeg
+    400028: LeftShoulder
+    400030: LeftToeBase
+    400032: LeftUpLeg
+    400034: LHipJoint
+    400036: low-polyMesh
+    400038: LowerBack
+    400040: LThumb
+    400042: //RootNode
+    400044: mujerc3Mesh
+    400046: Neck
+    400048: Neck1
+    400050: ponytail01Mesh
+    400052: RHipJoint
+    400054: RightArm
+    400056: RightFingerBase
+    400058: RightFoot
+    400060: RightForeArm
+    400062: RightHand
+    400064: RightHandFinger1
+    400066: RightLeg
+    400068: RightShoulder
+    400070: RightToeBase
+    400072: RightUpLeg
+    400074: RThumb
+    400076: Spine
+    400078: Spine1
+    4300000: mujerc3Mesh
+    4300002: ponytail01Mesh
+    4300004: low-polyMesh
+    4300006: eyebrow001Mesh
+    4300008: eyelashes01Mesh
+    4300010: female_elegantsuit01Mesh
+    4300012: boots_ankleMesh
+    9500000: //RootNode
+    13700000: boots_ankleMesh
+    13700002: eyebrow001Mesh
+    13700004: eyelashes01Mesh
+    13700006: female_elegantsuit01Mesh
+    13700008: low-polyMesh
+    13700010: mujerc3Mesh
+    13700012: ponytail01Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

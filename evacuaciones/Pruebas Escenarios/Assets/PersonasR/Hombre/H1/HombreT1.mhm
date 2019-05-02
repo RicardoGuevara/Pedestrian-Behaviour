@@ -1,0 +1,31 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags HombreT1
+camera 6.0 0.5 0.0499394510774 1.0 0.278000620446 1.325
+modifier measure/measure-neck-height-decr|incr 0.130000
+modifier macrodetails-universal/Muscle 0.715000
+modifier macrodetails/African 0.134051
+modifier macrodetails-proportions/BodyProportions 0.539000
+modifier macrodetails/Gender 0.518000
+modifier macrodetails-height/Height 0.342000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.119949
+modifier measure/measure-neck-circ-decr|incr -0.192000
+modifier macrodetails/Caucasian 0.746000
+modifier macrodetails-universal/Weight 0.731000
+modifier measure/measure-upperarm-length-decr|incr -0.026000
+hair short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8
+skeleton cmu_mb.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose tpose.bvh
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+expression determination02.mhpose
+skinMaterial skins/middleage_caucasian_male/middleage_caucasian_male.mhmat
+material short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8 short04.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False

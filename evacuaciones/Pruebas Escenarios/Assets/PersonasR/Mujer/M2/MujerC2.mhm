@@ -1,0 +1,29 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags MujerC2
+camera 1.0 5.5 -0.148281799723 0.375080329201 0.114420073432 1.1625
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails-height/Height 0.378000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.534000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier torso/torso-scale-depth-decr|incr -0.140000
+modifier macrodetails-universal/Weight 0.500000
+hair ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton cmu_mb.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose tpose.bvh
+clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
+clothes female_casualsuit01 a8b0e841-144b-4f03-8b9e-ea8fdce8c863
+clothesHideFaces True
+skinMaterial skins/middleage_caucasian_female/middleage_caucasian_female.mhmat
+material ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde ponytail01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False
