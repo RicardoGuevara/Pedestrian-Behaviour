@@ -90,6 +90,9 @@
     <Compile Include="Assets\ComenzarPJ2.cs" />
     <Compile Include="Assets\ComenzarPJ20.cs" />
     <Compile Include="Assets\ComenzarPJ21.cs" />
+    <Compile Include="Assets\ComenzarPJ22.cs" />
+    <Compile Include="Assets\ComenzarPJ23.cs" />
+    <Compile Include="Assets\ComenzarPJ24.cs" />
     <Compile Include="Assets\ComenzarPJ3.cs" />
     <Compile Include="Assets\ComenzarPJ4.cs" />
     <Compile Include="Assets\ComenzarPJ5.cs" />

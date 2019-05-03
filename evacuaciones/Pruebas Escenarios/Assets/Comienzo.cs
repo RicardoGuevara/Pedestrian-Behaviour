@@ -11,7 +11,7 @@ public class Comienzo : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (this.transform.position.z <= -22 && this.transform.position.z >= -22.9)
+        if (this.transform.position.z <= -22 && this.transform.position.z >= -22.3)
         {
             anim.SetFloat("Empezar", 1.0f);
 
