@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/escenario_4_6.unity
+- path: Assets/escenario1_4.unity
   isLoaded: 1
   isActive: 1
