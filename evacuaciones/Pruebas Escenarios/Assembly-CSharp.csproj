@@ -46,12 +46,43 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ComenzarPJ1.cs" />
+     <Compile Include="Assets\ComenzarPJ10.cs" />
+     <Compile Include="Assets\ComenzarPJ11.cs" />
+     <Compile Include="Assets\ComenzarPJ12.cs" />
+     <Compile Include="Assets\ComenzarPJ13.cs" />
+     <Compile Include="Assets\ComenzarPJ14.cs" />
+     <Compile Include="Assets\ComenzarPJ15.cs" />
+     <Compile Include="Assets\ComenzarPJ19.cs" />
+     <Compile Include="Assets\ComenzarPJ2.cs" />
+     <Compile Include="Assets\ComenzarPJ20.cs" />
+     <Compile Include="Assets\ComenzarPJ21.cs" />
+     <Compile Include="Assets\ComenzarPJ22.cs" />
+     <Compile Include="Assets\ComenzarPJ23.cs" />
+     <Compile Include="Assets\ComenzarPJ24.cs" />
+     <Compile Include="Assets\ComenzarPJ3.cs" />
+     <Compile Include="Assets\ComenzarPJ4.cs" />
+     <Compile Include="Assets\ComenzarPJ5.cs" />
+     <Compile Include="Assets\ComenzarPJ6.cs" />
+     <Compile Include="Assets\ComenzarPJ7.cs" />
+     <Compile Include="Assets\ComenzarPJ8.cs" />
+     <Compile Include="Assets\ComenzarPJ9.cs" />
+     <Compile Include="Assets\ComenzarPj18.cs" />
+     <Compile Include="Assets\Comienzo.cs" />
+     <Compile Include="Assets\ComienzoPJ17.cs" />
+     <Compile Include="Assets\DelayPrueba.cs" />
      <Compile Include="Assets\EliminarPj.cs" />
      <Compile Include="Assets\EliminarPjGiran.cs" />
      <Compile Include="Assets\EliminarPjGiranDer.cs" />
      <Compile Include="Assets\EliminarPjPuerta2.cs" />
+     <Compile Include="Assets\HG.cs" />
+     <Compile Include="Assets\Tomando.cs" />
+     <None Include="Assets\Huge Mocap Library\READTHIS.txt" />
      <None Include="Assets\Easy DG Assets 1 - Wood + Stone\README.txt" />
+     <None Include="Assets\Huge Mocap Library\mocap animations\cmu-mocap-index-text.txt" />
+     <None Include="Assets\Humans\H1\H1.skeleton.xml" />
      <None Include="Assets\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
+     <None Include="Assets\Humans\H1\H1.mesh.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.3f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
